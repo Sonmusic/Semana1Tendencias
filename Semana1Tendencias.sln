@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeCase", "Semana1Tendencias\SnakeCase.csproj", "{53BDBE3B-A719-4496-9591-76F69D7B8CE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAndRelation", "FunctionAndRelation\FunctionAndRelation.csproj", "{BF837E74-CB62-4709-989C-FDE5C4FC7B34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53BDBE3B-A719-4496-9591-76F69D7B8CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BDBE3B-A719-4496-9591-76F69D7B8CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BDBE3B-A719-4496-9591-76F69D7B8CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BDBE3B-A719-4496-9591-76F69D7B8CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF837E74-CB62-4709-989C-FDE5C4FC7B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF837E74-CB62-4709-989C-FDE5C4FC7B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF837E74-CB62-4709-989C-FDE5C4FC7B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF837E74-CB62-4709-989C-FDE5C4FC7B34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B85A5A1-2918-4B2A-94AC-0EEDFF32A0E8}
+	EndGlobalSection
+EndGlobal
